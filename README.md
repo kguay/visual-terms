@@ -1,5 +1,5 @@
-# visual-terms
-Visual terms &amp; conditions and privacy statement icons
+# Visual Terms
+Visual Terms &amp; Conditions and Privacy Statement icons
 
 Have you ever once read the Terms & Conditions or Privacy Policy for a website, application, or device? 
 Have you aggreed to them?
