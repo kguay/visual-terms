@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="100" height="100" viewBox="0, 0, 100, 100">
+  <g id="Background">
+    <rect x="0" y="0" width="100" height="100" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Layer_1">
+    <path d="M-80.238,98.499 C-107.024,98.368 -128.631,76.547 -128.499,49.762 C-128.368,22.976 -106.547,1.369 -79.762,1.501 C-52.976,1.632 -31.369,23.453 -31.501,50.238 C-31.632,77.024 -53.453,98.631 -80.238,98.499 z" fill="#9B3838"/>
+    <text transform="matrix(1, 0.005, -0.005, 1, -80, 50)">
+      <tspan x="-31.238" y="23" font-family=".HelveticaNeueDeskInterface-Regular" font-size="75" fill="#FFFFFF">©</tspan>
+    </text>
+    <path d="M50,98.5 C23.214,98.5 1.5,76.786 1.5,50 C1.5,23.214 23.214,1.5 50,1.5 C76.786,1.5 98.5,23.214 98.5,50 C98.5,76.786 76.786,98.5 50,98.5 z" fill="#9B3838"/>
+    <g>
+      <path d="M46.085,44.318 L53.102,44.318 L53.102,51.348 L46.085,51.348 z" fill="#FFFFFF"/>
+      <path d="M56.819,34.937 L51.696,29.796 L46.57,34.937 L51.696,40.046 z" fill="#FFFFFF"/>
+      <path d="M46.982,17.657 L52.107,22.768 L47.002,27.885 L41.878,22.774 z" fill="#FFFFFF"/>
+      <path d="M63.798,82.343 L72.494,36.1 L65.955,36.1 L58.329,75.881 L41.519,75.881 L34.056,36.124 L27.506,36.124 L36.05,82.343 z" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>
