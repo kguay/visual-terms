@@ -11,3 +11,4 @@ Visual Terms is a set of icons that can be used to represent key aspects of term
 While there is no way that icons can accurately represent a full Terms & Conditions or Privacy Policy document, they give the company an oportunity to be transparent and communicate the key points to those users who are not willing to give the document a quick scan before rushing to click the "Accept" button.
 
 ![Copy](./icons/copy.svg)
+![Trash](./icons/trash.svg)
